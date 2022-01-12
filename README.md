@@ -1,6 +1,6 @@
 # url-shortener-dio
 
-Projeto criado pela _expert_ Alexia Pereira, junto da DIO, para construção de um Encurtador de URL, a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados..
+Projeto criado pela _expert_ Alexia Pereira, junto da DIO, para construção de um Encurtador de URL, a partir da construção de uma API com NodeJS, Typescript e MongoDB para a base de dados.
 
 ## Rodando o projeto
 
